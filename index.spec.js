@@ -7,7 +7,7 @@ describe('Chaos Chess', () => {
             let king = {
                 position: startingPosition,
                 moveTo(direction) {
-
+                    this.position = direction
                 }
             }
 

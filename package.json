@@ -4,7 +4,8 @@
   "description": "Chaos Chess",
   "main": "index.js",
   "scripts": {
-    "test": "jest --coverage --verbose"
+    "test": "jest --coverage --verbose",
+    "watch": "jest --watchAll"
   },
   "repository": {
     "type": "git",
