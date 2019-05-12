@@ -1,0 +1,26 @@
+{
+  "name": "chaoschess",
+  "version": "1.0.0",
+  "description": "Chaos Chess",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oranyelik/chaoschess.git"
+  },
+  "keywords": [
+    "chess",
+    "machine-learning"
+  ],
+  "author": "Humans",
+  "license": "SEE LICENSE IN license.txt",
+  "bugs": {
+    "url": "https://github.com/oranyelik/chaoschess/issues"
+  },
+  "homepage": "https://github.com/oranyelik/chaoschess#readme",
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
