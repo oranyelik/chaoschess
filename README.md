@@ -20,3 +20,14 @@ npm start
 ```
 npm test
 ```
+
+## Contributors
+Steve
+Kiley
+
+License
+MIT license. Subject to change.
+
+Thank you
+https://gist.githubusercontent.com/jxson/1784669/raw/de4e1b30f4d08cb759dac19619d3d5ba1f35bc96/README.md
+https://babeljs.io/docs/en/usage
